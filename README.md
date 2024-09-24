@@ -23,6 +23,16 @@ This Android application demonstrates the use of modern Android architecture com
 - **Coroutines**: Implemented for asynchronous programming to simplify code and enhance readability during data retrieval and processing.
 - **LiveData**: Utilizes LiveData to observe data changes and update the UI reactively.
 
+## Screenshots
+
+<p align="left">
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/RickAndMorty/rickandmorty1.png" width="240" height="506"/>
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/RickAndMorty/rickandmorty2.png" width="240" height="506"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/RickAndMorty/rickandmorty3.png" width="240" height="506"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/RickAndMorty/rickandmorty4.png" width="240" height="506"/> 
+<img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/RickAndMorty/rickandmorty5.png" width="240" height="506"/> 
+</p>
+
 ## Technologies Used
 - **Kotlin**: The primary programming language for the application.
 - **Android Jetpack Components**:
